@@ -50,6 +50,7 @@ Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aport
  - ***En proceso***
    Python TOTAL - Programador Avanzado en Udemy 
    Curso de Inglés en https://kaleanders.com
+   FULL STACK JAVA DEV: JAVA + JSP + SPRING + BOOT + JS + REACT
 ---  
 ## Experiencia Profesional  
 
@@ -106,5 +107,5 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjQ3MjY2NCwtMzUzNDUxOTVdfQ==
+eyJoaXN0b3J5IjpbLTczNjI3MTY5NSwtMzUzNDUxOTVdfQ==
 -->
