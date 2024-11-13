@@ -1,6 +1,5 @@
 # RAÚL SAAVEDRA VILLANUEVA  
 **Senior Backend Developer | IBM Integration BUS - Java Springboot**
-
 ---
 
 ## Perfil  
@@ -93,11 +92,6 @@ _2016 - 2018_
 _2007 - 2008_  
 - Soporte a la arquitectura de integración de aplicaciones utilizando IBM MQSeries y otras herramientas de integración de datos.
 ---
-## Intereses  
-- Apasionado por la tecnología y las nuevas tendencias.  
-- Fotografía y tocar guitarra.  
----
-
 ## Proyectos Destacados  
 ### Proyecto Integración en Banco ITAU  
 - Desarrollo de microservicios REST utilizando IBM Integration Bus y API Connect para la integración de servicios financieros.
@@ -107,5 +101,6 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjI3MTY5NSwtMzUzNDUxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE3OTkzMDk4MDIsLTczNjI3MTY5NSwtMz
+UzNDUxOTVdfQ==
 -->
