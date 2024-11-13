@@ -45,10 +45,10 @@ Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aport
  - **2002** : Análisis y Diseño Orientado a Objetos – Java con WebSphere Studio”, en IBM.  
    **2005** : Curso de 40 horas Developing J2EE, Compliant Application dictado por IT Training.  
    **2021**: Typescript: De Cero a Experto 2021 Udemy 
+   **2024** : Curso Completo de IA Generativa: ChatGPT, Midjourney y más! en Udemy 
    
  - ***En proceso***
    Python TOTAL - Programador Avanzado en Udemy 
-   Curso Completo de IA Generativa: ChatGPT, Midjourney y más! en Udemy 
    Curso Certificación Profesional Desarrolador Java 11 y 17 en Udemy 
    Curso de Inglés en https://kaleanders.com
 ---  
@@ -107,5 +107,5 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzI5NzEwM119
+eyJoaXN0b3J5IjpbLTM1MzQ1MTk1XX0=
 -->
