@@ -6,6 +6,10 @@
 Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aportando de manera positiva al grupo, demostrando mis habilidades técnicas y profesionales para que junto al equipo cumplamos con las tareas asignadas. Soy responsable, cumplo con mis compromisos, tengo una mentalidad colaborativa y de trabajo en equipo.
 
 ---
+## Intereses  
+- Apasionado por la tecnología y las nuevas tendencias.  
+- Fotografía y tocar guitarra.  
+---
 
 ## Datos de Contacto  
 - **Teléfono**: +56 9 7497 7548  
@@ -101,6 +105,6 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkzMDk4MDIsLTczNjI3MTY5NSwtMz
-UzNDUxOTVdfQ==
+eyJoaXN0b3J5IjpbLTY3NDc4NTAxLC03MzYyNzE2OTUsLTM1Mz
+Q1MTk1XX0=
 -->
