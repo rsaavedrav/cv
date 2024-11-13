@@ -49,7 +49,6 @@ Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aport
    
  - ***En proceso***
    Python TOTAL - Programador Avanzado en Udemy 
-   Curso Certificación Profesional Desarrolador Java 11 y 17 en Udemy 
    Curso de Inglés en https://kaleanders.com
 ---  
 ## Experiencia Profesional  
@@ -107,5 +106,5 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzQ1MTk1XX0=
+eyJoaXN0b3J5IjpbLTMyNjQ3MjY2NCwtMzUzNDUxOTVdfQ==
 -->
