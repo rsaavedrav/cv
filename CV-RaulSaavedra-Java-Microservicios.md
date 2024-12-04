@@ -80,7 +80,7 @@ _Noviembre 2018 - Junio 2021_
 - **MICROSERVICIOS**
 **Coopeuch**
 	- Me integro a la **Célula**  de desarrollo de Apis para importante proyecto de **Portabilidad Financiera,** donde **implementé** **microservicios** utilizando **Java 8 con Spring Boot, JPA e Hibernate**. 
-	- Desarrollé soluciones eficientes, asegurando un manejo óptimo de **logs** mediante su **integración**  con **AWS S3,** en un entorno ágil, aplicando principios **CI/CD** para asegurar una entrega continua y de alta calidad, en colaboración con otros equipos para garantizar la implementación exitosa de las **APIs** y **microservicios****en la nube.**
+	- Desarrollé soluciones eficientes, asegurando un manejo óptimo de **logs** mediante su **integración**  con **AWS S3,** en un entorno ágil, aplicando principios **CI/CD** para asegurar una entrega continua y de alta calidad, en colaboración con otros equipos para garantizar la implementación exitosa de las **APIs** y **microservicios en la nube.**
 
 ### Ingeniero de Desarrollo - **SURA**  
 _2013 - 2014_  
@@ -108,6 +108,6 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODM1MzI2OSwtMTAyNjAyNDYwMiwtNj
-c0Nzg1MDFdfQ==
+eyJoaXN0b3J5IjpbLTEwNzkwOTMzNTMsMTc3ODM1MzI2OSwtMT
+AyNjAyNDYwMiwtNjc0Nzg1MDFdfQ==
 -->
