@@ -77,6 +77,29 @@ _Junio 2021 - Febrero 2023_
 ### Consultor Técnico Senior - **SOAINT**  
 _Noviembre 2018 - Junio 2021_  
 - Desarrollo de servicios de integración en IBM Integration Bus y IBM Message Broker.
+- <![endif]-->
+
+**MICROSERVICIOS**
+
+**Coopeuch**
+
+Me integro a la **Célula**  de desarrollo de Apis para importante
+
+proyecto de **Portabilidad Financiera,** donde **implementé**
+
+**microservicios** utilizando **Java 8 con Spring Boot, JPA e Hibernate**.
+
+Desarrollé soluciones eficientes, asegurando un manejo óptimo
+
+de **logs** mediante su **integración**  con **AWS S3,** en un entorno ágil,
+
+aplicando principios **CI/CD** para asegurar una entrega continua
+
+y de alta calidad, en colaboración con otros equipos para
+
+garantizar la implementación exitosa de las **APIs** y **microservicios**
+
+**en la nube.**
 - Construcción de servicios en entorno de microservicios para bancos y aseguradoras como Banco Ripley y Metlife.
 
 ### Ingeniero de Desarrollo - **SURA**  
@@ -105,5 +128,5 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDc4NTAxXX0=
+eyJoaXN0b3J5IjpbLTExMjkwNzAzOTYsLTY3NDc4NTAxXX0=
 -->
