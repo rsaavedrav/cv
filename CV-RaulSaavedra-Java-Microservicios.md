@@ -103,11 +103,11 @@ _2007 - 2008_
 ### Proyecto Integración en Banco ITAU  
 - Desarrollo de microservicios REST utilizando IBM Integration Bus y API Connect para la integración de servicios financieros.
 
-### Proyecto Microservicios para Coope 
-- Configuración de IBM MQSeries 9.3 para la creación y administración de colas y canales, optimizando la comunicación entre servicios.
+### Proyecto Microservicios para Coopeuch 
+- Apis para importante proyecto de **Portabilidad Financiera,** donde **implementé** **microservicios** utilizando **Java 8 con Spring Boot, JPA e Hibernate**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDY0ODIyLC0xMDI2MDI0NjAyLC02Nz
-Q3ODUwMV19
+eyJoaXN0b3J5IjpbMTc3ODM1MzI2OSwtMTAyNjAyNDYwMiwtNj
+c0Nzg1MDFdfQ==
 -->
