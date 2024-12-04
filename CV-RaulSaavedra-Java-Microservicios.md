@@ -77,10 +77,10 @@ _Junio 2021 - Febrero 2023_
 ### Consultor Técnico Senior - **SOAINT**  
 _Noviembre 2018 - Junio 2021_  
 - Desarrollo de servicios de integración en IBM Integration Bus y IBM Message Broker
-**MICROSERVICIOS**
+- **MICROSERVICIOS**
 **Coopeuch**
-- Me integro a la **Célula**  de desarrollo de Apis para importante proyecto de **Portabilidad Financiera,** donde **implementé** **microservicios** utilizando **Java 8 con Spring Boot, JPA e Hibernate**. 
-- Desarrollé soluciones eficientes, asegurando un manejo óptimo de **logs** mediante su **integración**  con **AWS S3,** en un entorno ágil, aplicando principios **CI/CD** para asegurar una entrega continua y de alta calidad, en colaboración con otros equipos para garantizar la implementación exitosa de las **APIs** y **microservicios****en la nube.**
+	- Me integro a la **Célula**  de desarrollo de Apis para importante proyecto de **Portabilidad Financiera,** donde **implementé** **microservicios** utilizando **Java 8 con Spring Boot, JPA e Hibernate**. 
+	- Desarrollé soluciones eficientes, asegurando un manejo óptimo de **logs** mediante su **integración**  con **AWS S3,** en un entorno ágil, aplicando principios **CI/CD** para asegurar una entrega continua y de alta calidad, en colaboración con otros equipos para garantizar la implementación exitosa de las **APIs** y **microservicios****en la nube.**
 
 ### Ingeniero de Desarrollo - **SURA**  
 _2013 - 2014_  
@@ -103,10 +103,11 @@ _2007 - 2008_
 ### Proyecto Integración en Banco ITAU  
 - Desarrollo de microservicios REST utilizando IBM Integration Bus y API Connect para la integración de servicios financieros.
 
-### Proyecto Sky Airline en GCP  
+### Proyecto Microservicios para Coope 
 - Configuración de IBM MQSeries 9.3 para la creación y administración de colas y canales, optimizando la comunicación entre servicios.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYwMjQ2MDIsLTY3NDc4NTAxXX0=
+eyJoaXN0b3J5IjpbMTY2MDY0ODIyLC0xMDI2MDI0NjAyLC02Nz
+Q3ODUwMV19
 -->
