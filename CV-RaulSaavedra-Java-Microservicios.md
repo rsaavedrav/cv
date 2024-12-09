@@ -57,6 +57,12 @@ Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aport
 ---  
 ## Experiencia Profesional  
 
+### DSoftware Developer BackEnd - **APIUX**  
+Noviembre 2024 - Noviembre 2023_  
+- Desarrollo de microservicios y APIs REST en IBM API Connect y DataPower.
+- Administración de entorno de desarrollo con IBM API Manager.
+- Configuración y administración de MQSeries para integración de servicios en Google Cloud Platform.
+
 ### Desarrollador Senior Freelance   
 _2024_  
 - Desarrollo de microservicios y APIs REST Java Springboot
@@ -108,6 +114,6 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkwOTMzNTMsMTc3ODM1MzI2OSwtMT
-AyNjAyNDYwMiwtNjc0Nzg1MDFdfQ==
+eyJoaXN0b3J5IjpbMTkxMzE5MTY5NSwtMTA3OTA5MzM1MywxNz
+c4MzUzMjY5LC0xMDI2MDI0NjAyLC02NzQ3ODUwMV19
 -->
