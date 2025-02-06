@@ -32,7 +32,7 @@ Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aport
 ## Habilidades Técnicas  
 - **Lenguajes**: **Java 8 Springboo**t, Python, XML, JSON  
 - **Frameworks**: Spring Boot, Hibernate, Struts  
-- **Microservicios**: Desarrollo y mantenimiento en APIs REST y SOAP, IBM Integration Bus, IBM API Connect  
+- **Microservicios**: Desarrollo y mantenimiento en APIs REST y SOAP, **IBM Integration Bus,** **IBM API Connect**  
 - **Herramientas**: **Git**, **Bitbucket**, GitLab, Jenkins, Postman, SoapUI  
 - **Bases de Datos**: **Oracle**, **SQL Server**,  **DB2** y NoSQL MongoDB 
 - **Metodologías**: Scrum, CI/CD  
@@ -112,6 +112,7 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODY3Nzg3LC0xMDc5MDkzMzUzLDE3Nz
-gzNTMyNjksLTEwMjYwMjQ2MDIsLTY3NDc4NTAxXX0=
+eyJoaXN0b3J5IjpbLTE0MzU2MTE3MDEsMTE4ODY3Nzg3LC0xMD
+c5MDkzMzUzLDE3NzgzNTMyNjksLTEwMjYwMjQ2MDIsLTY3NDc4
+NTAxXX0=
 -->
