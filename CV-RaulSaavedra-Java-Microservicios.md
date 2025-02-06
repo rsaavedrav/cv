@@ -58,8 +58,8 @@ Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aport
 ## Experiencia Profesional  
 
 ### Software Developer BackEnd Java- **APIUX**  
-Noviembre 2024  
-- Ingreso a Apiux para cliente IPS (Instituto de Previsión Social), realizando tareas de mantención y resolución de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc.
+Noviembre 2024 a la fecha. 
+- Ingreso a Apiux para cliente IPS (Instituto de Previsión Social), realizando tareas de mantención y resolución de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc., Base de datos Oracle.
 
 ### Desarrollador Senior Freelance   
 _2024_  
@@ -112,7 +112,7 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU2MTE3MDEsMTE4ODY3Nzg3LC0xMD
+eyJoaXN0b3J5IjpbLTE4NjYwMzk2OTUsMTE4ODY3Nzg3LC0xMD
 c5MDkzMzUzLDE3NzgzNTMyNjksLTEwMjYwMjQ2MDIsLTY3NDc4
 NTAxXX0=
 -->
