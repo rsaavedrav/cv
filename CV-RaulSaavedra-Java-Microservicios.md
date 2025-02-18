@@ -68,7 +68,7 @@ _2024_
 
 ### Desarrollador Senior - **SOAINT**  
 _Febrero 2023 - Noviembre 2023_  
-- Desarrollo de microservicios y APIs REST en **IBM API Connect** y Api Gateway DataPower.
+- Desarrollo de microservicios y APIs REST en **IBM API Connect** y **Api Gateway DataPower**.
 - Administración de entorno de desarrollo con IBM API Manager.
 - Configuración y administración de MQSeries para integración de servicios en Google Cloud Platform.
 
@@ -84,7 +84,7 @@ _Noviembre 2018 - Junio 2021_
 - **MICROSERVICIOS**
 **Coopeuch**
 	- Me integro a la **Célula**  de desarrollo de Apis para importante proyecto de **Portabilidad Financiera,** donde **implementé** **microservicios** utilizando **Java 8 con Spring Boot, JPA e Hibernate**. 
-	- Desarrollé soluciones eficientes, asegurando un manejo óptimo de **logs** mediante su **integración**  con **AWS S3,** en un entorno ágil, aplicando principios **CI/CD** para asegurar una entrega continua y de alta calidad, en colaboración con otros equipos para garantizar la implementación exitosa de las **APIs** y **microservicios en la nube.**
+	- Desarrollé soluciones eficientes, asegurando un manejo óptimo de **logs** mediante su **integración**  con **AWS S3,** AWS Api Gateway en un entorno ágil, aplicando principios **CI/CD** para asegurar una entrega continua y de alta calidad, en colaboración con otros equipos para garantizar la implementación exitosa de las **APIs** y **microservicios en la nube.**
 
 ### Ingeniero de Desarrollo - **SURA**  
 _2013 - 2014_  
@@ -112,7 +112,7 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3ODEzODQzLC03MjU3NzczNDksLTE4Nj
-YwMzk2OTUsMTE4ODY3Nzg3LC0xMDc5MDkzMzUzLDE3NzgzNTMy
-NjksLTEwMjYwMjQ2MDIsLTY3NDc4NTAxXX0=
+eyJoaXN0b3J5IjpbMTY4MzM4MTg0OCwtNzI1Nzc3MzQ5LC0xOD
+Y2MDM5Njk1LDExODg2Nzc4NywtMTA3OTA5MzM1MywxNzc4MzUz
+MjY5LC0xMDI2MDI0NjAyLC02NzQ3ODUwMV19
 -->
