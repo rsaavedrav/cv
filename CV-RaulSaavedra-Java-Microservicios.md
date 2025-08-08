@@ -56,9 +56,12 @@ Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aport
    FULL STACK JAVA DEV: JAVA + JSP + SPRING + BOOT + JS + REACT
 ---  
 ## Experiencia Profesional  
+### Software Developer BackEnd Java- **TIVIT**  
+Abril 2025 a la fecha. 
+- Ingreso a TIVIT para cliente IPS (Instituto de Previsión Social), realizando tareas de mantención y resolución de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc., Base de datos Oracle.
 
 ### Software Developer BackEnd Java- **APIUX**  
-Noviembre 2024 a la fecha. 
+Noviembre 2024 a Marzo 2025. 
 - Ingreso a Apiux para cliente IPS (Instituto de Previsión Social), realizando tareas de mantención y resolución de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc., Base de datos Oracle.
 
 ### Desarrollador Senior Freelance   
@@ -112,7 +115,8 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA5NDUyMDUsLTcyNTc3NzM0OSwtMT
-g2NjAzOTY5NSwxMTg4Njc3ODcsLTEwNzkwOTMzNTMsMTc3ODM1
-MzI2OSwtMTAyNjAyNDYwMiwtNjc0Nzg1MDFdfQ==
+eyJoaXN0b3J5IjpbMTA0MDc1MjY1NSwtMTczMDk0NTIwNSwtNz
+I1Nzc3MzQ5LC0xODY2MDM5Njk1LDExODg2Nzc4NywtMTA3OTA5
+MzM1MywxNzc4MzUzMjY5LC0xMDI2MDI0NjAyLC02NzQ3ODUwMV
+19
 -->
