@@ -57,8 +57,8 @@ Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aport
 ---  
 ## Experiencia Profesional  
 ### Software Developer BackEnd Java Microservicios- **Stefanini**  
-Noviem 2025 a la Noviembre. 
-- Ingreso a TIVIT para cliente IPS (Instituto de Previsión Social), realizando tareas de mantención y resolución de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc., Base de datos Oracle.
+Noviembre 2025 a la fecha. 
+- Ingreso a Stefanini para cliente Banco de Chile, realizando tareas de construcción de Microservicios en Java 17 y Springboot, me integro a la celula  de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc., Base de datos Oracle.
 
 
 ### Software Developer BackEnd Java- **TIVIT**  
@@ -120,7 +120,7 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjQ1MTIwNywxMDQwNzUyNjU1LC0xNz
+eyJoaXN0b3J5IjpbMTk3MTM0OTU3MiwxMDQwNzUyNjU1LC0xNz
 MwOTQ1MjA1LC03MjU3NzczNDksLTE4NjYwMzk2OTUsMTE4ODY3
 Nzg3LC0xMDc5MDkzMzUzLDE3NzgzNTMyNjksLTEwMjYwMjQ2MD
 IsLTY3NDc4NTAxXX0=
