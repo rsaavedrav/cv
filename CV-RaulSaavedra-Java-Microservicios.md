@@ -58,16 +58,16 @@ Con una actitud proactiva, me adapto fácilmente a los equipos de trabajo, aport
 ## Experiencia Profesional  
 ### Software Developer BackEnd Java Microservicios- **STEFANINI**  
 Noviembre 2025 a la fecha. 
-- Ingreso a Stefanini para cliente Banco de Chile, realizando tareas de construcción de Microservicios en Java 17 y Springboot, me integro a la celula PyME, 
+- Ingreso a Stefanini para cliente **Banco de Chile**, realizando tareas de construcción de Microservicios en Java 17 y Springboot, me integro a la celula PyME, 
 
 
 ### Software Developer BackEnd Java- **TIVIT**  
 Abril 2025 a la Noviembre. 
-- Ingreso a TIVIT para cliente IPS (Instituto de Previsión Social), realizando tareas de mantención y resolución de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc., Base de datos Oracle.
+- Ingreso a TIVIT para cliente **IPS** (Instituto de Previsión Social), realizando tareas de mantención y resolución de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc., Base de datos Oracle.
 
 ### Software Developer BackEnd Java- **APIUX**  
 Noviembre 2024 a Marzo 2025. 
-- Ingreso a Apiux para cliente IPS (Instituto de Previsión Social), realizando tareas de mantención y resolución de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc., Base de datos Oracle.
+- Ingreso a Apiux para cliente **IPS** (Instituto de Previsión Social), realizando tareas de mantención y resolución de incidencias del aplicativo utilizado por los ejecutivos. Aplicativo desarrollado en Java - JSP. etc., Base de datos Oracle.
 
 ### Desarrollador Senior Freelance   
 _2024_  
@@ -120,8 +120,8 @@ _2007 - 2008_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTQzMTUwMCwxMDQwNzUyNjU1LC0xNz
-MwOTQ1MjA1LC03MjU3NzczNDksLTE4NjYwMzk2OTUsMTE4ODY3
-Nzg3LC0xMDc5MDkzMzUzLDE3NzgzNTMyNjksLTEwMjYwMjQ2MD
-IsLTY3NDc4NTAxXX0=
+eyJoaXN0b3J5IjpbLTExODM1NzM1MTYsMTA0MDc1MjY1NSwtMT
+czMDk0NTIwNSwtNzI1Nzc3MzQ5LC0xODY2MDM5Njk1LDExODg2
+Nzc4NywtMTA3OTA5MzM1MywxNzc4MzUzMjY5LC0xMDI2MDI0Nj
+AyLC02NzQ3ODUwMV19
 -->
